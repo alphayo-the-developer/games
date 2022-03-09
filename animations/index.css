@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+
+} 
+
+#canvas {
+    border: 5px solid black;
+    /* position: absolute;
+    top: 10%;
+    left: 20%;
+    transform: translate(-50%, -505); */
+    width: 600px;
+    height: 400px;
+}
